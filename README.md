@@ -47,3 +47,6 @@ bash
 Copy
 Edit
 open index.html
+
+![image](https://github.com/user-attachments/assets/fa29ab7d-158c-4b5e-bf28-2575aacfa8fc)
+
